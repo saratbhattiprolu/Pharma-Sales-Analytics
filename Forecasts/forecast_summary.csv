@@ -1,0 +1,9 @@
+drug_code,drug_name,tier,historical_noise_pct,arima_order,arima_12w_mean,arima_12w_lower,arima_12w_upper,arima_12w_ci_width,prophet_52w_mean,prophet_52w_lower,prophet_52w_upper,prophet_52w_ci_width
+M01AB,Diclofenac,1,14.8,"(0, 0, 0)",35.1,18.2,52.0,33.7,36.0,20.9,51.1,30.2
+M01AE,Ibuprofen,1,15.4,"(2, 0, 0)",25.8,12.1,39.5,27.4,25.7,11.8,39.4,27.6
+N02BA,Aspirin,1,14.5,"(5, 1, 1)",19.2,5.4,32.9,27.5,18.7,5.0,32.3,27.3
+N02BE,Paracetamol,1,13.6,"(2, 0, 0)",171.1,41.5,300.8,259.4,200.5,105.6,294.7,189.1
+N05B,Anxiolytics,2,20.9,"(0, 0, 5)",58.3,18.1,98.5,80.4,59.8,18.6,101.2,82.6
+N05C,Sedatives,3,52.6,"(0, 0, 1)",4.1,-2.0,10.2,12.2,4.9,0.0,11.0,11.0
+R03,Respiratory,2,29.3,"(5, 1, 1)",23.7,-21.5,68.8,90.3,53.2,17.6,88.6,71.0
+R06,Antihistamines,2,21.7,"(1, 0, 1)",12.8,-6.5,32.0,38.5,24.4,11.4,37.4,25.9
